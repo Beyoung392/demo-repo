@@ -9,3 +9,8 @@ Watch tutorial on YouTube.
 Adding something else
 
 Do you see what I see? 
+
+
+## Local Development
+
+1. Open index.html in your browser
